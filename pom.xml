@@ -27,7 +27,7 @@
         <springboot.version>2.1.2.RELEASE</springboot.version>
         <spring-boot-starter-thymeleaf.version>2.1.2.RELEASE</spring-boot-starter-thymeleaf.version>
         <mybatis-spring-boot-starter.version>2.0.0</mybatis-spring-boot-starter.version>
-        <mysql-connector-java.version>5.1.46</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <org.dom4j.version>2.1.1</org.dom4j.version>
         <jackson-annotations.version>2.9.8</jackson-annotations.version>
 
